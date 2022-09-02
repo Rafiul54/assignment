@@ -1,0 +1,60 @@
+body {
+    margin: 0px;
+    padding-right: 130px;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 42px;
+    padding-left: 10px;
+}
+
+.border-focus {
+    border-left: 4px solid;
+    border-image: linear-gradient(salmon, tomato);
+    border-image-slice: 1;
+}
+
+.orange {
+    color: orange;
+}
+
+.explore-button {
+    text-decoration: none;
+    background-image: linear-gradient(salmon, tomato);
+    padding: 8px 25px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.display-container {
+    display: flex;
+}
+
+.half {
+    width: 50%;
+    padding-left: 130px;
+    padding-top: 80px;
+}
+
+.half img {
+    width: 100%;
+}
+
+.mission {
+    text-align: center;
+}
+
+.box-mission {
+    background-color: aquamarine;
+    width: 30%;
+    margin-left: 13%;
+    padding: 20px 30px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.elastrator img {
+    width: 60%;
+}
